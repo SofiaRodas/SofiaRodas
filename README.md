@@ -2,7 +2,6 @@
 
 <img align="right" width="340" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
-## 💫 Más que escribir código, me gusta construir soluciones.
 
 Soy **Tecnóloga en Análisis y Desarrollo de Software** de Colombia 🇨🇴 y disfruto transformar problemas en aplicaciones que realmente aporten valor. Me motiva entender cómo funcionan las cosas detrás de escena, analizar procesos, diseñar soluciones escalables y convertir una idea en un producto funcional.
 
@@ -81,8 +80,6 @@ Actualmente estoy enfocando mi crecimiento hacia el desarrollo **Full Stack**, f
 ## 🎯 Actualmente...
 
 🔹 Desarrollando proyectos para fortalecer mis habilidades Full Stack.
-
-🔹 Aprendiendo React, Node.js y PostgreSQL.
 
 🔹 Explorando nuevas tecnologías enfocadas en aplicaciones escalables.
 
